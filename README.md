@@ -6,8 +6,9 @@ Hello! And welcome to this repository of JavaScript projects. Those are projects
 
 The next is a list of the projects that are in this repository. This list may not be exhaustive:
 
-1. Create a table
-2. New York Restaurants
+1. Bolt Network (folder)
+2. Authorization Form
+3. Build a Library
 
 From time to time I do some projects that are difficult to convey in a specific set of files, so I don't put them here, but normally I upload them all.
 

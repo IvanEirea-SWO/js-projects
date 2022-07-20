@@ -12,9 +12,10 @@ The next is a list of the main projects that are in this repository. This list m
 
 Another set of minor/extra projects that are in this repository:
 
-1. Rock, Paper, or Scissors
-2. Sleep Debt Calculator
-3. Training Days
+1. Particles JS Example (folder) ✨
+2. Rock, Paper, or Scissors
+3. Sleep Debt Calculator
+4. Training Days
 
 From time to time I do some projects that are difficult to convey in a specific set of files, so I don't put them here, but normally I upload them all.
 

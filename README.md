@@ -1,4 +1,4 @@
-# JavaScript Projects
+# JavaScript Projects ☕🎨
 
 ![alt text](https://imgs.search.brave.com/VKY5mJKufQ_ASD7am2D9WYnG1fh7ziLxHKZL-XH2fPo/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTU1/NTE3Mi5qcGc "JS Mug image")
 
@@ -18,4 +18,4 @@ Another set of minor/extra projects that are in this repository:
 
 From time to time I do some projects that are difficult to convey in a specific set of files, so I don't put them here, but normally I upload them all.
 
-See you! ☕🎨
+See you!

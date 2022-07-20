@@ -18,4 +18,4 @@ Another set of minor/extra projects that are in this repository:
 
 From time to time I do some projects that are difficult to convey in a specific set of files, so I don't put them here, but normally I upload them all.
 
-See you!
+See you! ☕🎨

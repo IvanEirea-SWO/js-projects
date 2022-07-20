@@ -4,11 +4,15 @@
 
 Hello! And welcome to this repository of JavaScript projects. Those are projects that I do for **learning** or for *fun*, so feel free to use them whatever you want. I will be updating content here from time to time.
 
-The next is a list of the projects that are in this repository. This list may not be exhaustive:
+The next is a list of the main projects that are in this repository. This list may not be exhaustive:
 
 1. Bolt Network (folder)
 2. Authorization Form
 3. Build a Library
+
+Another set of minor/extra projects that are in this repository:
+
+1. Rock, Paper, or Scissors
 
 From time to time I do some projects that are difficult to convey in a specific set of files, so I don't put them here, but normally I upload them all.
 
